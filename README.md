@@ -25,6 +25,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </br>
 </br>
 </br>
+</br>
 </a>
 <a href="https://www.youtube.com/channel/UCLWEzeatj9wGqJ80Fi9TcBQ">
   <img align="left" alt="Youtube" width="70" hight="70" src="https://github.com/homsdev/homsdev/blob/main/assets/icons/youtube.png" />
@@ -34,8 +35,8 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </a>
 </p>
 
-<br>
-<br>
+</br>
+</br>
 
 <h3 align="left">Languages and Tools:</h3>
 
