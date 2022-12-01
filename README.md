@@ -18,19 +18,19 @@
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
 
 <a href="mailto:obr_dev@protonmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/homsdev/homsdev/blob/main/assets/icons/gmail.png" />
+ <img align="left" alt="Gmail" width="70" hight="70" src="https://github.com/homsdev/homsdev/blob/main/assets/icons/gmail.png" />
 </a>
 <a href="https://www.linkedin.com/in/homsdev/">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/homsdev/homsdev/blob/master/assets/icons/linkedin.png" />
+  <img align="left" alt="Linkedin" width="70" hight="70" src="https://github.com/homsdev/homsdev/blob/main/assets/icons/linkedin.png" />
 </br>
 </br>
 </br>
 </a>
 <a href="https://www.youtube.com/channel/UCLWEzeatj9wGqJ80Fi9TcBQ">
-  <img align="left" alt="Youtube" width="130" hight="100" src="https://github.com/homsdev/homsdev/blob/master/assets/icons/youtube.png" />
+  <img align="left" alt="Youtube" width="70" hight="70" src="https://github.com/homsdev/homsdev/blob/main/assets/icons/youtube.png" />
 </a>
 <a href="https://steamcommunity.com/profiles/">
-  <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/homsdev/homsdev/blob/master/assets/icons/steam.png" />
+  <img align="left" alt="Steam" width="70" hight="70" src="https://github.com/homsdev/homsdev/blob/main/assets/icons/steam.png" />
 </a>
 </p>
 
