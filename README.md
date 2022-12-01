@@ -36,8 +36,6 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 
 <br>
 <br>
-<br>
-<br>
 
 <h3 align="left">Languages and Tools:</h3>
 
