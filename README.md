@@ -12,16 +12,25 @@
 - 📝 I regularly write articles on [homsdev.blog.com](homsdev.blog.com)
 
 
-<h3 align="left">Social Media</h3>
-
+## Contact Me:
 ---
 
-<p align="left">
+If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
+
+<a href="mailto:obr_dev@protonmail.com">
+ <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/homsdev/homsdev/blob/main/assets/icons/gmail.png" />
+</a>
 <a href="https://www.linkedin.com/in/homsdev/">
-<img width="50px" height="50px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" />
+  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/homsdev/homsdev/blob/master/assets/icons/linkedin.png" />
+</br>
+</br>
+</br>
 </a>
 <a href="https://www.youtube.com/channel/UCLWEzeatj9wGqJ80Fi9TcBQ">
-<img width="50px" height="50px" src="https://cdn-icons-png.flaticon.com/512/3938/3938026.png" />
+  <img align="left" alt="Youtube" width="130" hight="100" src="https://github.com/homsdev/homsdev/blob/master/assets/icons/youtube.png" />
+</a>
+<a href="https://steamcommunity.com/profiles/">
+  <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/homsdev/homsdev/blob/master/assets/icons/steam.png" />
 </a>
 </p>
 
@@ -38,3 +47,6 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=homsdev&show_icons=true&locale=en&layout=compact" alt="homsdev" /></p>
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=homsdev&show_icons=true&locale=en" alt="homsdev" /></p> -->
+
+
+ 
