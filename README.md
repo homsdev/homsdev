@@ -1,4 +1,6 @@
-![](https://github.com/homsdev/banner.png)
+<div>
+<img src="https://raw.githubusercontent.com/homsdev/homsdev/main/banner.png">
+</div>
 <h1 align="center">Hi! I'm HomS & Welcome to my github profile</h1>
 <h3 align="center">Java/React fullstack web developer from Mexico</h3>
 
@@ -11,7 +13,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/homsdev/">
-<img width="50px" height="50px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" /> LinkedIn Profile
+<img width="50px" height="50px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" />
+</a>
+<a href="https://www.youtube.com/channel/UCLWEzeatj9wGqJ80Fi9TcBQ">
+<img width="50px" height="50px" src="https://cdn-icons-png.flaticon.com/512/3938/3938026.png" />
 </a>
 </p>
 
