@@ -1,7 +1,7 @@
-<h1 align="center">Hello There! 👋, I'm HomS</h1>
-<h3 align="center">A passionate fullstack developer from Mexico</h3>
+<h1 align="center">Hi! I'm HomS & Welcome to my github profile</h1>
+<h3 align="center">Java/React fullstack web developer from Mexico</h3>
 
-- 🔭 I’m currently working on **BBVA** as external java developer 
+- 🔭 I’m currently working on **BBVA** as external java developer
 
 - 👨‍💻 All of my projects are available at [homsdev.com](homsdev.com)
 
