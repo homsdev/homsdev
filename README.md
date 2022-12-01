@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/homsdev/">
-<img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" />
+<img width="50px" height="50px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" /> LinkedIn Profile
 </a>
 </p>
 
