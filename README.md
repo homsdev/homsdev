@@ -1,4 +1,4 @@
-<div>
+<div style="display:flex; justify-content:center; margin-bottom: 15px">
 <img src="https://raw.githubusercontent.com/homsdev/homsdev/main/github_banner.png">
 </div>
 <h1 align="center">Hi! I'm HomS & Welcome to my github profile</h1>
